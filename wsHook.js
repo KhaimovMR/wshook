@@ -94,3 +94,5 @@ var wsHook = {};
     return WSObject
   }
 })()
+
+window.wsHook = wsHook;
